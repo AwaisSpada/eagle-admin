@@ -1,0 +1,132 @@
+[
+  {
+    "video": {
+      "title": "Shadows of the Past",
+      "thumbnail": "placeholderImage.com/101"
+    },
+    "access": "Paid",
+    "plan": "Elite Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Echoes of Time",
+      "thumbnail": "placeholderImage.com/102"
+    },
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Legends Reborn",
+      "thumbnail": "placeholderImage.com/103"
+    },
+    "access": "Paid",
+    "plan": "Gold Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Destiny’s Call",
+      "thumbnail": "placeholderImage.com/104"
+    },
+    "access": "Paid",
+    "plan": "Platinum Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Rise of the Titans",
+      "thumbnail": "placeholderImage.com/105"
+    },
+    "access": "Paid",
+    "plan": "Silver Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "The Last Stand",
+      "thumbnail": "placeholderImage.com/106"
+    },
+    "access": "Paid",
+    "plan": "Elite Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Uncharted Realms",
+      "thumbnail": "placeholderImage.com/107"
+    },
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Vortex Chronicles",
+      "thumbnail": "placeholderImage.com/108"
+    },
+    "access": "Paid",
+    "plan": "Gold Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Infinity’s Edge",
+      "thumbnail": "placeholderImage.com/109"
+    },
+    "access": "Paid",
+    "plan": "Platinum Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "video": {
+      "title": "Warriors’ Legacy",
+      "thumbnail": "placeholderImage.com/110"
+    },
+    "access": "Paid",
+    "plan": "Silver Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  }
+]

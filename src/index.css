@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #c30811;
+  --color-primaryHover: #9b101a;
+  --color-secondary: #2a2d34;
+  --color-background: #0d429b;
+  --color-card-background: #e8eaed;
+}
+body {
+  background-color: white;
+}
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+html {
+  scroll-behavior: smooth;
+}
+::selection {
+  color: #ffffff;
+  background: #EC1D51;
+}
+::-moz-selection { /* Code for Firefox */
+  color: red;
+  background: yellow;
+}
+
+/* ::selection {
+  color: red;
+  background: yellow;
+} */

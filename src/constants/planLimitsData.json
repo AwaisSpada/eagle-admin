@@ -1,0 +1,50 @@
+[
+  {
+    "title": "VideoCast",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "title": "Ads",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "title": "Device Limit",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "title": "Download Status",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "title": "Supported Device Type",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  },
+  {
+    "title": "Profile Limit",
+    "status": true,
+    "action": {
+      "edit": true,
+      "delete": true
+    }
+  }
+]

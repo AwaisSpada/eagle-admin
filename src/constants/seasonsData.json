@@ -1,0 +1,152 @@
+[
+  {
+    "season": {
+      "title": "S1 The Haunting of Blackthorn Manor ",
+      "thumbnail": "placeholderImage.com/20"
+    },
+    "tvShow": "Snip & Spy: The Cutthroat Mission",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "Echoes of the Abyss",
+      "thumbnail": "placeholderImage.com/21"
+    },
+    "tvShow": "Dark Secrets",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "Cybernetic Dawn",
+      "thumbnail": "placeholderImage.com/22"
+    },
+    "tvShow": "Neon Warriors",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "Mystic Shadows",
+      "thumbnail": "placeholderImage.com/23"
+    },
+    "tvShow": "Haunted Whispers",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "Rogue Protocol",
+      "thumbnail": "placeholderImage.com/24"
+    },
+    "tvShow": "Operation Silent Storm",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "Phantom Code",
+      "thumbnail": "placeholderImage.com/25"
+    },
+    "tvShow": "Hacker’s Revenge",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "Eclipse Division",
+      "thumbnail": "placeholderImage.com/26"
+    },
+    "tvShow": "Shadow Ops",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "Wasteland Wars",
+      "thumbnail": "placeholderImage.com/27"
+    },
+    "tvShow": "Survivor’s Edge",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "Crimson Night",
+      "thumbnail": "placeholderImage.com/28"
+    },
+    "tvShow": "Blood Moon Chronicles",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "Frozen Echo",
+      "thumbnail": "placeholderImage.com/29"
+    },
+    "tvShow": "Arctic Mysteries",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": true
+    }
+  }
+]
