@@ -1,0 +1,192 @@
+[
+  {
+    "movie": {
+      "title": "Dead Zone Heist",
+      "thumbnail": "placeholderImage.com/20",
+      "genre": ["Animation", "Romantic", "Thriller"],
+      "releaseDate": "23rd August 2024"
+    },
+    "iLike": 2,
+    "look": 2,
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Charlotte's Curse",
+      "thumbnail": "placeholderImage.com/21",
+      "genre": ["Horror", "Animation", "Comedy"],
+      "releaseDate": "1st August 2024"
+    },
+    "iLike": 3,
+    "look": 1,
+    "access": "Free",
+    "plan": null,
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Crossroads of Conflict",
+      "thumbnail": "placeholderImage.com/22",
+      "genre": ["Historical", "Horror", "Romantic"],
+      "releaseDate": "6th August 2024"
+    },
+    "iLike": 1,
+    "look": null,
+    "access": "Paid",
+    "plan": "Elite Plan",
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "The Iron Cavalry",
+      "thumbnail": "placeholderImage.com/23",
+      "genre": ["Historical", "Romantic"],
+      "releaseDate": "12th July 2024"
+    },
+    "iLike": 5,
+    "look": 2,
+    "access": "Free",
+    "plan": null,
+    "language": "Hindi",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Family Feud Fiasco",
+      "thumbnail": "placeholderImage.com/24",
+      "genre": ["Action", "Comedy"],
+      "releaseDate": "18th July 2024"
+    },
+    "iLike": 4,
+    "look": 2,
+    "access": "Free",
+    "plan": null,
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Voice of Freedom: The Hero's Journey",
+      "thumbnail": "placeholderImage.com/25",
+      "genre": ["Animation", "Historical"],
+      "releaseDate": "20th July 2024"
+    },
+    "iLike": 6,
+    "look": 3,
+    "access": "Paid",
+    "plan": "Ultimate Plan",
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Galactic Odyssey",
+      "thumbnail": "placeholderImage.com/26",
+      "genre": ["Sci-Fi", "Adventure"],
+      "releaseDate": "30th September 2024"
+    },
+    "iLike": 8,
+    "look": 4,
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "language": "English",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "movie": {
+      "title": "Mystic Shadows",
+      "thumbnail": "placeholderImage.com/27",
+      "genre": ["Mystery", "Thriller"],
+      "releaseDate": "15th October 2024"
+    },
+    "iLike": 7,
+    "look": 3,
+    "access": "Free",
+    "plan": null,
+    "language": "French",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "movie": {
+      "title": "Cyber Nexus",
+      "thumbnail": "placeholderImage.com/28",
+      "genre": ["Cyberpunk", "Action"],
+      "releaseDate": "5th November 2024"
+    },
+    "iLike": 10,
+    "look": 5,
+    "access": "Paid",
+    "plan": "Elite Plan",
+    "language": "Japanese",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "movie": {
+      "title": "Echoes of Time",
+      "thumbnail": "placeholderImage.com/29",
+      "genre": ["Drama", "Fantasy"],
+      "releaseDate": "25th December 2024"
+    },
+    "iLike": 9,
+    "look": 4,
+    "access": "Free",
+    "plan": null,
+    "language": "English",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": true
+    }
+  }
+]

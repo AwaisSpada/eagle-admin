@@ -1,0 +1,302 @@
+[
+  {
+    "user": {
+      "title": "Anthony Rice",
+      "email": "anthonyrice@eschoir.com"
+    },
+    "contact": "+1 (810) 572-2083",
+    "gender": "male",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "changePassword": false,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Opal Jennings",
+      "email": "opaljennings@eschoir.com"
+    },
+    "contact": "+1 (980) 588-2146",
+    "gender": "female",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": false,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Norma James",
+      "email": "normajames@eschoir.com"
+    },
+    "contact": "+1 (822) 507-2439",
+    "gender": "female",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": false,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Livingston Bowman",
+      "email": "livingstonbowman@eschoir.com"
+    },
+    "contact": "+1 (907) 586-3151",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": false,
+      "changePassword": true,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Estella Pruitt",
+      "email": "estellapruitt@eschoir.com"
+    },
+    "contact": "+1 (982) 531-3054",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Blair Stone",
+      "email": "blairstone@eschoir.com"
+    },
+    "contact": "+1 (826) 535-2890",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": true,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Krista Bonner",
+      "email": "kristabonner@eschoir.com"
+    },
+    "contact": "+1 (832) 419-3859",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": true,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Deidre Newman",
+      "email": "deidrenewman@eschoir.com"
+    },
+    "contact": "+1 (828) 567-2291",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Moses Cooke",
+      "email": "mosescooke@eschoir.com"
+    },
+    "contact": "+1 (850) 506-2689",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": false,
+      "changePassword": true,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Garrett Floyd",
+      "email": "garrettfloyd@eschoir.com"
+    },
+    "contact": "+1 (883) 511-3562",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": true,
+      "changePassword": false,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Rosario French",
+      "email": "rosariofrench@eschoir.com"
+    },
+    "contact": "+1 (907) 555-2738",
+    "gender": "male",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": false,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Herrera Forbes",
+      "email": "herreraforbes@eschoir.com"
+    },
+    "contact": "+1 (927) 477-3387",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Celeste Hester",
+      "email": "celestehester@eschoir.com"
+    },
+    "contact": "+1 (821) 406-2943",
+    "gender": "female",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Corina Monroe",
+      "email": "corinamonroe@eschoir.com"
+    },
+    "contact": "+1 (919) 496-3840",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "changePassword": false,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Gena Sandoval",
+      "email": "genasandoval@eschoir.com"
+    },
+    "contact": "+1 (885) 546-2708",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": true,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Lancaster Morales",
+      "email": "lancastermorales@eschoir.com"
+    },
+    "contact": "+1 (856) 600-2519",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": true,
+      "changePassword": true,
+      "delete": true
+    }
+  },
+  {
+    "user": {
+      "title": "Travis Barron",
+      "email": "travisbarron@eschoir.com"
+    },
+    "contact": "+1 (814) 598-2510",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": false,
+      "changePassword": false,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Morris Blackwell",
+      "email": "morrisblackwell@eschoir.com"
+    },
+    "contact": "+1 (828) 536-3325",
+    "gender": "male",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "changePassword": false,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Angel Chandler",
+      "email": "angelchandler@eschoir.com"
+    },
+    "contact": "+1 (977) 448-3255",
+    "gender": "female",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "changePassword": true,
+      "delete": false
+    }
+  },
+  {
+    "user": {
+      "title": "Lawson Delgado",
+      "email": "lawsondelgado@eschoir.com"
+    },
+    "contact": "+1 (950) 526-3054",
+    "gender": "male",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "changePassword": false,
+      "delete": true
+    }
+  }
+]

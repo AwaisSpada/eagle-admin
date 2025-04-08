@@ -1,0 +1,162 @@
+[
+  {
+    "season": {
+      "title": "S2 The Curse of Ravenwood",
+      "thumbnail": "placeholderImage.com/21",
+      "season": "S2 Shadows Unleashed"
+    },
+    "tvShow": "Nightfall Chronicles: The Lost Prophecy",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S1 The Secret of Eldoria",
+      "thumbnail": "placeholderImage.com/22",
+      "season": "S1 The Hidden Realm"
+    },
+    "tvShow": "Mystic Legends: The Forbidden Spell",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S3 The Final Reckoning",
+      "thumbnail": "placeholderImage.com/23",
+      "season": "S3 War of the Titans"
+    },
+    "tvShow": "Chronicles of the Immortals",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "S2 The Vanishing Hour",
+      "thumbnail": "placeholderImage.com/24",
+      "season": "S2 Echoes of the Past"
+    },
+    "tvShow": "The Timekeeper’s Dilemma",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": true,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S1 Dark Moon Rising",
+      "thumbnail": "placeholderImage.com/25",
+      "season": "S1 The Lunar Curse"
+    },
+    "tvShow": "Eclipse Hunters: A Celestial Mystery",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": false,
+    "action": {
+      "edit": true,
+      "view": false,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S4 The Eternal Winter",
+      "thumbnail": "placeholderImage.com/26",
+      "season": "S4 Frostborn's Revenge"
+    },
+    "tvShow": "Frozen Legends: The Icy Betrayal",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S3 Shadows of the Forsaken",
+      "thumbnail": "placeholderImage.com/27",
+      "season": "S3 The Forgotten City"
+    },
+    "tvShow": "Dark Realms: The Phantom's Call",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S1 The Enchanted Forest",
+      "thumbnail": "placeholderImage.com/28",
+      "season": "S1 Whispers of the Elves"
+    },
+    "tvShow": "Mythic Journeys: The Realm Beyond",
+    "access": "Paid",
+    "plan": "Standard Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": false
+    }
+  },
+  {
+    "season": {
+      "title": "S2 The Crimson Tides",
+      "thumbnail": "placeholderImage.com/29",
+      "season": "S2 The Blood Moon Rising"
+    },
+    "tvShow": "Pirates of the Forgotten Isles",
+    "access": "Paid",
+    "plan": "Premium Plan",
+    "status": true,
+    "action": {
+      "edit": true,
+      "view": true,
+      "delete": true
+    }
+  },
+  {
+    "season": {
+      "title": "S5 The Darkest Hour",
+      "thumbnail": "placeholderImage.com/30",
+      "season": "S5 Wrath of the Ancients"
+    },
+    "tvShow": "Legends Reborn: The Final Chapter",
+    "access": "Free",
+    "plan": "Basic Plan",
+    "status": false,
+    "action": {
+      "edit": false,
+      "view": true,
+      "delete": false
+    }
+  }
+]
